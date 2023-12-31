@@ -1,0 +1,4 @@
+baseURL = 'https://casualskreations.com/'
+languageCode = 'en-us'
+title = "Casual's Kreations"
+theme = 'keepit'
